@@ -4,4 +4,4 @@
 
 出处：[《DEVONthink 脚本入门：以导出 Markdown 格式阅读清单为例 - UNTAG》](https://utgd.net/article/9608)
 
-![title](img.png)
+![title](img.jpeg)
