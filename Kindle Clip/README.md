@@ -13,4 +13,4 @@
 
 - [用 Shortcuts 和 DEVONthink 摘抄微博内容](https://utgd.net/article/9167)
 - [用 DEVONthink 做网页摘抄，夺回数据所有权](https://utgd.net/article/20106/)
-- [用 Shortcuts 和 DEVONthink 摘抄 Instapaper 内容](https://utgd.net/article/20148（预计2023年5月到6月发布）)
+- [用 Shortcuts 和 DEVONthink 摘抄 Instapaper 内容（预计2023年5月到6月发布）](https://utgd.net/article/20148)
