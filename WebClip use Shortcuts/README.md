@@ -9,7 +9,7 @@
 系列文章：
 
 - [用 Shortcuts 和 DEVONthink 摘抄微博内容](https://utgd.net/article/9167)
-- [用 Shortcuts 和 DEVONthink 摘抄 Kindle 内容（预计2023年5月到6月发布）](https://utgd.net/article/20149)
-- [用 Shortcuts 和 DEVONthink 摘抄 Instapaper 内容（预计2023年5月到6月发布）](https://utgd.net/article/20148)
+- [用 Shortcuts 和 DEVONthink 摘抄 Kindle 内容](https://utgd.net/article/20149/)
+- [用 Shortcuts 和 DEVONthink 摘抄 Instapaper 内容](https://utgd.net/article/20148/)
 
 ![title](img.png)
