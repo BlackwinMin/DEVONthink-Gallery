@@ -2,6 +2,8 @@
 
 批量翻译文章标题，便于快速检视文章，判断哪些值得继续阅读。
 
+20240407 更新：已有另一套更高速的方案，推荐采用：[RSS Translate X](https://github.com/BlackwinMin/DEVONthink-gallery/tree/master/RSS%20Translate%20X)。
+
 20240116 更新：针对论坛类 RSS 中重复标题较多的情况，优化了翻译逻辑，不再重复翻译，速度有明显提升（可能比原来快几倍）。
 
 DEVONthink Pro 用户如同时有 Keyboard Maestro，建议使用“RSS Translate.kmmacros”并下载[此 Shortcuts](https://www.icloud.com/shortcuts/40e3c743bee644c3a7c73d42c0a61b8a)，注意需将脚本中的 Shortcuts 动作名作相应修改。我只能保证维护这个版本，因为这是我自己在用的。
